@@ -2,8 +2,8 @@
 ## program menghitung luas dan keliling lingkaran
 
 ### Rumus Luas & Keliling Lingkaran
-Luas     = π(pi) × r²<p>
-Keliling = 2 x π(pi) × r<p>
+Luas     = π pi × r²<p>
+Keliling = 2 x π pi × r<p>
 
 Nilai Phi yang akan kita gunakan adalah 22/7<p>
 r merupakan jari-jari lingkaran<p>
@@ -18,8 +18,8 @@ INPUT <p>
 r = int(input("Masukan Jari-jari : "))<p>
 pi = 22/7
 
-luas = pi*(r*r)<p>
-keliling = 2*pi*r<p>
+luas = pi * (r * r)<p>
+keliling = 2 * pi * r<p>
 
 print ("Luas Lingkaran = ",luas,"cm")<p>
 print ("Keliling Lingkaran = ",keliling,"cm")<p>
