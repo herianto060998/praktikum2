@@ -1,11 +1,11 @@
-import math
-r = float(input("Masukan Jari-jari : "))
+r = int(input("Masukan Jari-jari : "))
+pi = 22/7
 
-luas = math.pi*(r*r)
-keliling = 2*math.pi*r
+luas = pi*(r*r)
+keliling = 2*pi*r
 
-print ("Luas Lingkaran \t\t= ",luas)
-print ("Keliling Lingkaran\t= ",keliling)
+print ("Luas Lingkaran = ",luas ,"cm")
+print ("Keliling Lingkaran = ",keliling ,"cm")
 
-print ("Luas Lingkaran \t= ",format(luas,'.2f'))
-print ("Keliling Lingkaran \t= ",format(keliling,'.2f'))
+print ("Luas Lingkaran = ",format(luas,'.2f' )) 
+print ("Keliling Lingkaran = ",format(keliling,'.2f' ))
