@@ -52,9 +52,7 @@ Keliling Lingkaran      =<p>
 
 Dengan penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja.<p>
 
-## Penjelasan Lab 1 dan Lab 2 
 
-Penggunaan end<p>
 
 
 
